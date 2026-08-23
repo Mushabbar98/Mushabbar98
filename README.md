@@ -2,7 +2,7 @@
 
 Aerodynamics Engineer working across CFD, fluid-structure interaction, and aeroelastic flutter analysis for UAV systems. Currently at **BAYKAR Technologies**, building toward civil aerospace roles in Europe.
 
-🔗 **Portfolio & case studies:** [mhneng.com](https://mhneng.com)
+🔗 **Portfolio & case studies:** [mhneng.com]([https://mhneng.com](https://mushabbar98.github.io/Mushabbar.Noor-Site/Home.dc.html))
 
 ---
 
@@ -25,4 +25,4 @@ Aerodynamics Engineer working across CFD, fluid-structure interaction, and aeroe
 
 Building out an independent engineering consultancy (MHN.ENG) alongside industry work, and preparing a transition toward civil aerospace roles in the Netherlands/Germany.
 
-📫 Reach me via [mhneng.com](https://mhneng.com) or LinkedIn.
+📫 Reach me via [mhneng.com]([https://mhneng.com](https://mushabbar98.github.io/Mushabbar.Noor-Site/Home.dc.html)) or LinkedIn.
